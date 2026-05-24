@@ -1,6 +1,10 @@
 # GFN-LSF_Launcher
 A small launcher (MACOS only) that automates turning off location services, enabling firewall, opening and waiting for GFN to close to then revert those changes.
 
+If this saves you a little time, [buy me a coffee](https://paypal.me/ABPaintball/5).
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-$5%20PayPal-00457C?logo=paypal)](https://paypal.me/ABPaintball/5)
+
 Real simple install, download the files anywhere, and do the following:
 
 Install Homebrew (Open a terminal and paste one of these at a time):
